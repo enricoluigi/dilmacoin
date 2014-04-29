@@ -22,7 +22,7 @@ edite para
 Vai estar algo assim:
 
     RELEASE=1
-    USE_QRCODE=1
+    USE_QRCODE=0
     USE_UPNP=1
 
 Salve o arquivo e execute:
